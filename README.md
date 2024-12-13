@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarv
+#  Hi, I'm Sarv
 
 🎓 I'm a computer engineering student at the University of Tehran with a strong interest in web development, AI, and human-computer interaction.  
 
